@@ -22,7 +22,7 @@ pip install pandas
 pip install scikit-learn
 ```
 Running the Code
-Clone the repository to your local machine.
+Clone the repository to your local machine:
 
 ```
 git clone https://github.com/imSanko/PlayStore_Analysis.git
