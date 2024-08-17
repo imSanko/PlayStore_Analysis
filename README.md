@@ -1,4 +1,4 @@
-# PlayStore Analysis
+# PlayStore Analysis:
 
 This project is a Python script for analyzing data from the Google Play Store. It performs various tasks on the data, such as data manipulation, filtering, and analysis. The code is written in a Jupyter Notebook environment.
 
